@@ -12,17 +12,17 @@
       "metadata": 0.4
     }
   },
-  "total_traces": 0,
-  "successful_attacks": 0,
-  "blocked_attacks": 0,
-  "errors": 210,
-  "attack_success_rate": 0,
-  "elapsed_time_seconds": 109.27132773399353,
+  "total_traces": 210,
+  "successful_attacks": 45,
+  "blocked_attacks": 165,
+  "errors": 0,
+  "attack_success_rate": 21.428571428571427,
+  "elapsed_time_seconds": 130.64257264137268,
   "adaptive_events": {
-    "layer3_escalations": 0,
+    "layer3_escalations": 100,
     "layer4_enhanced_monitoring": 0,
     "layer5_threshold_adjustments": 0
   },
   "database": "results/exp6_adaptive_l3.db",
-  "timestamp": "2025-12-26T06:21:04.040874"
+  "timestamp": "2025-12-26T06:59:51.756681"
 }
