@@ -13,16 +13,16 @@
     }
   },
   "total_traces": 210,
-  "successful_attacks": 49,
-  "blocked_attacks": 161,
+  "successful_attacks": 46,
+  "blocked_attacks": 164,
   "errors": 0,
-  "attack_success_rate": 23.333333333333332,
-  "elapsed_time_seconds": 120.74062371253967,
+  "attack_success_rate": 21.904761904761905,
+  "elapsed_time_seconds": 119.50081133842468,
   "adaptive_events": {
     "layer3_escalations": 100,
     "layer4_enhanced_monitoring": 0,
     "layer5_threshold_adjustments": 0
   },
   "database": "results/exp6_adaptive_l3.db",
-  "timestamp": "2025-12-26T11:40:34.976989"
+  "timestamp": "2025-12-26T12:51:26.209096"
 }
